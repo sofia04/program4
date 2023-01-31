@@ -15,4 +15,5 @@ x=n;
 }
 printf("%d\n",res);
 }
+kjurugrek
 
